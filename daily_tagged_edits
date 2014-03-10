@@ -1,0 +1,2 @@
+#!/bin/sh
+~/env/3/bin/python -tt -c "from gs import daily_tagged_edits; daily_tagged_edits.main();" "$@"
